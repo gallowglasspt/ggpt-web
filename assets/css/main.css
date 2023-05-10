@@ -1655,7 +1655,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #0b1af3 url("images/overlay.png");80;
+			background-color: #0b1af3 url("images/overlay.png");
 		}
 
 		input[type="button"].large,
