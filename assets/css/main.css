@@ -2063,6 +2063,7 @@ input, select, textarea {
 		height: 24em;
 		background: url("../../images/banner.jpg") center center;
 		background-size: cover;
+		background-repeat: no-repeat;
 		padding: 0;
 	}
 
